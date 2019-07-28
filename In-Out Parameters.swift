@@ -1,5 +1,9 @@
 import Foundation
 
+// In-Out Parameters
+// (name: ionout Type)
+// functionName(argLabel: &expr)
+
 var num1 = 12
 var num2 = 34
 
