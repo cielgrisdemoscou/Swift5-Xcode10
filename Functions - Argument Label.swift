@@ -1,6 +1,6 @@
 import Foundation
 
-//unc sayHello(name: String) {
+//func sayHello(name: String) {
 //    print("Hello, \(name)")
 //}
 
