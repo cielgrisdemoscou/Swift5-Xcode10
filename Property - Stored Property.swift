@@ -44,14 +44,3 @@ struct BlogPost {
 
 var  post = BlogPost()
 print(post.attachment) // new image
-
-
-
-
-
-
-
-
-
-
-
