@@ -10,6 +10,18 @@ let m = Math()
 //m.pi X
 Math.pi // 3.14
 
+/* 
+static var name: Type {
+    get {
+        statements 
+        return expr
+    }
+    set(name) {
+        statements
+    }
+}
+*/
+
 enum Weekday: Int {
     case sunday = 1, monday, tuesday, wednesday,
         thursday, firday, saturday
